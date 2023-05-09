@@ -1,2 +1,2 @@
 # COVID19-Dashboard
-COVID19-Dashboard for ITS analysis
+Create a visulization board for regression results from paper.
